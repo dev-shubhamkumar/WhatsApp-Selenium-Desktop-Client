@@ -1,0 +1,16 @@
+contact_search_box_xpath = '/html/body/div/div/div/div[3]/div/div[1]/div/label/div/div[2]'
+message_box_xpath = '/html/body/div/div/div/div[4]/div/footer/div[1]/div[2]/div/div[2]'
+
+
+
+
+chat_start_xpath = 
+'/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[2]/div/div/div/span/span'
+'/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[2]/div/div/div/span/span'
+
+chat_start_text =
+Messages are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Click to learn more.
+
+
+
+C:\Users\devsh\AppData\Local\Google\Chrome\User Data\Default

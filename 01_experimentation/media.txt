@@ -1,0 +1,142 @@
+/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[21]/div/div[1]/div/div/div[1]/div/div[2]/img       --sent
+//*[@id="main"]/div[3]/div/div/div[2]/div[47]/div/div[1]/div/div/div[1]/div/div[2]/img
+
+/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[14]/div/div[1]/div/div/div[1]/div/div[2]/img       --recieved
+
+/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[12]/div/div[1]/div/div/div[1]/div[1]/div[2]/img
+/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[12]/div/div[1]/div/div/div[1]/div[1]/div[2]/img        --sent group
+/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[19]/div/div[1]/div/div/div[1]/div[1]/div[4]/img        --sent individual
+
+raw
+/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[42]/div/div/div/div[1]/div/span[1]/span
+
+sent
+
+/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[41]
+/html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[41]/div/div[1]
+
+
+
+With Message-----------------------------------------------------
+    individual
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[34 ]/div/div[1]/div/div/div[1]/div/div[2]/img      --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[146]/div/div[1]/div/div/div[1]/div/div[2]/img      --rec
+
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[41 ]/div/div[1]/div/div/div[1]/div/div[2]/img      --sent
+
+
+
+
+    group
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[43 ]/div/div[1]/div/div/div[2]/div/div[2]/img       --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[13 ]/div/div[1]/div/div/div[2]/div/div[2]/img       --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[11 ]/div/div[1]/div/div/div[2]/div/div[2]/img       --rec
+
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[7  ]/div/div[1]/div/div/div[1]/div/div[3]/img       --sent
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[8  ]/div/div[1]/div/div/div[1]/div/div[4]/img       --sent
+
+
+
+
+Without Message-------------------------------------------------
+    individual
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[27 ]/div/div[1]/div/div/div[1]/div[1]/div[2]/img    --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[155]/div/div[1]/div/div/div[1]/div[1]/div[2]/img   --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[148]/div/div[1]/div/div/div[1]/div[1]/div[2]/img   --rec
+
+
+
+
+    group
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[17 ]/div/div[1]/div/div/div[3]/div[1]/div[2]/img    --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[13 ]/div/div[1]/div/div/div[2]/div[1]/div[2]/img    --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[31 ]/div/div[1]/div/div/div[2]/div[1]/div[2]/img    --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[32 ]/div/div[1]/div/div/div[2]/div[1]/div[2]/img    --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[15 ]/div/div[1]/div/div/div[2]/div[1]/div[2]/img    --rec
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[12 ]/div/div[1]/div/div/div[2]/div[1]/div[2]/img    --rec
+
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[38 ]/div/div[1]/div/div/div[1]/div[1]/div[2]/img    --sent
+        /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[39 ]/div/div[1]/div/div/div[1]/div[1]/div[2]/img    --sent
+
+
+======================================================================================================================
+======================================================================================================================
+======================================================================================================================
+
+With Message--------------------------------------------------------individual
+    
+    recieved
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[40]/div/div[1]/div/div/div[1]/div/div[3]/img
+        msg_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[40]/div/div[1]/div/div/div[2]/div/span[1]/span
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[40]/div/div[1]/div/div/div[3]/div/span
+    }
+
+    recieved
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[59]/div/div[1]/div/div/div[1]/div/div[2]/img
+        msg_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[59]/div/div[1]/div/div/div[2]/div/span[1]/span
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[59]/div/div[1]/div/div/div[3]/div/span
+    }
+
+    sent
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[47]/div/div[1]/div/div/div[1]/div/div[2]/img
+        msg_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[47]/div/div[1]/div/div/div[2]/div/span[1]/span
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[47]/div/div[1]/div/div/div[3]/div/span
+        msg_ticks = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[47]/div/div[1]/div/div/div[3]/div/div
+    }
+
+    sent
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[32]/div/div[1]/div/div/div[1]/div/div[2]/img
+        msg_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[32]/div/div[1]/div/div/div[2]/div/span[1]/span
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[32]/div/div[1]/div/div/div[3]/div/span
+        msg_ticks = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[32]/div/div[1]/div/div/div[3]/div/div
+    }
+
+
+
+
+
+Without Message-----------------------------------------------------individual
+
+    recieved
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[68]/div/div[1]/div/div/div[1]/div[1]/div[2]/img
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[68]/div/div[1]/div/div/div[2]/div/span
+    }
+
+    recieved
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[25]/div/div[1]/div/div/div[1]/div[1]/div[2]/img
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[25]/div/div[1]/div/div/div[2]/div/span
+    }
+
+    recieved
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[27]/div/div[1]/div/div/div[1]/div[1]/div[4]/img
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[2]/div[27]/div/div[1]/div/div/div[2]/div/span
+    }
+
+    sent
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[16]/div/div[1]/div/div/div[1]/div[1]/div[2]/img
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[16]/div/div[1]/div/div/div[2]/div/span
+        msg_ticks = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[16]/div/div[1]/div/div/div[2]/div/div
+    }
+
+    sent
+    {
+        img_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[12]/div/div[1]/div/div/div[1]/div[1]/div[3]/img
+        tim_xpath = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[12]/div/div[1]/div/div/div[2]/div/span
+        msg_ticks = /html/body/div/div[1]/div[1]/div[4]/div[1]/div[3]/div/div/div[3]/div[12]/div/div[1]/div/div/div[2]/div/div
+    }
+
+
+
+
+/html/body/div/div[1]/span[3]/div[1]/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/img
+
+
+
